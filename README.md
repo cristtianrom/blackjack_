@@ -25,13 +25,11 @@ Cómo jugar:
       - El dealer debe tomar cartas hasta alcanzar un valor de 17 o más.
   4. Resultados:
       - Se comparan tus puntos con los del dealer.
-  
-      Ganas si:
+  Ganas si:
     - Tienes 21 puntos (blackjack) y el dealer no.
     - Tienes más puntos que el dealer sin pasarte de 21.
     - El dealer se pasa de 21 puntos.
-     
-      Pierdes si:
+  Pierdes si:
     - Te pasas de 21 puntos.
     - El dealer tiene más puntos que tú sin pasarse de 21.
     - Se empata si ambos tienen la misma cantidad de puntos.
