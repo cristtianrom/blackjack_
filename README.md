@@ -26,15 +26,15 @@ Cómo jugar:
   4. Resultados:
       - Se comparan tus puntos con los del dealer.
   
-        |  Ganas si:
-            - Tienes 21 puntos (blackjack) y el dealer no.
-            - Tienes más puntos que el dealer sin pasarte de 21.
-            - El dealer se pasa de 21 puntos.
+      Ganas si:
+    - Tienes 21 puntos (blackjack) y el dealer no.
+    - Tienes más puntos que el dealer sin pasarte de 21.
+    - El dealer se pasa de 21 puntos.
      
-        |  Pierdes si:
-            - Te pasas de 21 puntos.
-            - El dealer tiene más puntos que tú sin pasarse de 21.
-            - Se empata si ambos tienen la misma cantidad de puntos.
+      Pierdes si:
+    - Te pasas de 21 puntos.
+    - El dealer tiene más puntos que tú sin pasarse de 21.
+    - Se empata si ambos tienen la misma cantidad de puntos.
 
 
 Juan Pablo Sarmiento Ramírez - 20221020138
